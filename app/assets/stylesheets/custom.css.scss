@@ -14,7 +14,6 @@ $navbar-default-bg: black;
 
 .navbar {
   border-radius: 0px;
-  margin-bottom: 0px;
 }
 
 .center {
@@ -25,6 +24,7 @@ $navbar-default-bg: black;
   background-image: url('https://unsplash.it/1600/550?image=973');
   background-size: cover;
   height: 550px;
+  margin-top: -21px;
 }
 
 .jumbotron h1 {
