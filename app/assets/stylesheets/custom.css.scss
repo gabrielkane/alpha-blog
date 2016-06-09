@@ -100,3 +100,12 @@ $navbar-default-bg: black;
   margin-bottom: -31px;
   margin-top: -20px;
 }
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
